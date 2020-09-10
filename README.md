@@ -4,3 +4,10 @@ A intuição é aprimorar esse projeto para um serviço para englobar qualquer t
 
 # Sobre o desenvolvimento
 Feito em python utilizando Selenium para realizar web Srapping e entrar no google tradutor enviar os textos em inglês e pegar os textos traduzidos
+
+# Fazendo instalação das biblioetcas utilizadas com pip
+
+```sh
+pip install pathlib
+pip install selenium
+```
